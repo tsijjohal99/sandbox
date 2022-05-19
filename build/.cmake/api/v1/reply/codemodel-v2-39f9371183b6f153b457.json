@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.0.0"
+						"string" : "3.10"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -291,7 +291,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "sandbox::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-sandbox-Debug-46a67ef56cc3340ccc42.json",
+					"jsonFile" : "target-sandbox-Debug-00ba72d640253f0a164a.json",
 					"name" : "sandbox",
 					"projectIndex" : 0
 				}
